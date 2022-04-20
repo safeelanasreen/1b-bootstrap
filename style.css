@@ -54,3 +54,6 @@ a{
  #para-link{
     color:orange;
 }
+#sidebar-text{
+    line-height: 25px;
+}
